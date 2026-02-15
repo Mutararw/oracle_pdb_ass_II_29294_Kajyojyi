@@ -43,7 +43,7 @@ later deleted completely, including its datafiles.
 
 Screenshots included: - Temporary PDB creation - Temporary PDB deletion
 confirmation
-![Temprary PDB](images/2_1.png)
+![Temprary PDB](images/temp.png)
 ![Temprary PDB](images/2_2.png)
 
 ## Task 3: Oracle Enterprise Manager (OEM)
