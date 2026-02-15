@@ -44,6 +44,8 @@ later deleted completely, including its datafiles.
 Screenshots included: - Temporary PDB creation - Temporary PDB deletion
 confirmation
 ![Temprary PDB](images/temp.png)
+
+
 ![Temporary PDB deletion confirmation
 ](images/2_2.png)
 
