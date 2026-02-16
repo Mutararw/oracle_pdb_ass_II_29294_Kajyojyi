@@ -56,7 +56,7 @@ later deleted completely, including its datafiles.
 
 ## Task 3: Oracle Enterprise Manager (OEM)
 
-![Temprary PDB](images/2_3.png)
+![Oracle  enterprise manager](images/OEM.png)
 Oracle Enterprise Manager was configured and accessed successfully. The
 dashboard shows the Oracle environment and created PDB.
 
@@ -64,7 +64,7 @@ Screenshot included: - OEM dashboard showing the created PDB
 
 
 ## Challenges Encountered
-
+personally i used postgres for my database management system class we used pgadmin so installing oracle was my biggest set back doing this work.
 Minor difficulty accessing Oracle Enterprise Manager (OEM), resolved by
 following Oracle documentation and verifying services.
 
@@ -80,6 +80,7 @@ following Oracle documentation and verifying services.
 Oracle Database 21c Documentation\
 INSY 8311 Course Materials\
 SQL\*Plus Documentation
+Some Random youtube videos
 
 ## Integrity Statement
 
