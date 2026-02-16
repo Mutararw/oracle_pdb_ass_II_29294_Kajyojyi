@@ -27,9 +27,9 @@ A new Pluggable Database (PDB) was created from the CDB\$ROOT container.
 The PDB was opened in READ WRITE mode and a dedicated user was created
 inside the PDB for coursework activities.
 
-###Screenshots included: 
+### Screenshots included: 
 
-###PDB creation command and result
+### PDB creation command and result
 
 ![PDB creation command and result
 ](images/1_1.png)
