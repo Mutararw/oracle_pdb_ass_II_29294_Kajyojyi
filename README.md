@@ -37,7 +37,8 @@ inside the PDB for coursework activities.
 ### user created in pdb
 ![User Created In PDB](images/1_3.png)
 
-
+### working with the pdb
+![User Created In PDB](images/1_2.png)
 ## Task 2: Create and Delete a Temporary PDB
 
 A temporary Pluggable Database was created for testing purposes and
