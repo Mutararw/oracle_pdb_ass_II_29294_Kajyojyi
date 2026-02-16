@@ -43,8 +43,10 @@ inside the PDB for coursework activities.
 A temporary Pluggable Database was created for testing purposes and
 later deleted completely, including its datafiles.
 
-Screenshots included: - Temporary PDB creation - Temporary PDB deletion
-confirmation
+### Screenshots included:
+
+### Temporary PDB creation 
+
 ![Temprary PDB](images/temp.png)
 
 ## Temporary PDB deletion confirmation
