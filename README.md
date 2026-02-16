@@ -27,26 +27,36 @@ A new Pluggable Database (PDB) was created from the CDB\$ROOT container.
 The PDB was opened in READ WRITE mode and a dedicated user was created
 inside the PDB for coursework activities.
 
-Screenshots included: - PDB creation command and result - PDB open state
-confirmation - User creation inside PDB
+### Screenshots included: 
+
+### PDB creation command and result
+
 ![PDB creation command and result
 ](images/1_1.png)
 
-
+### user created in pdb
 ![User Created In PDB](images/1_3.png)
 
-
+### working with the pdb
+![User Created In PDB](images/1_2.png)
 ## Task 2: Create and Delete a Temporary PDB
 
 A temporary Pluggable Database was created for testing purposes and
 later deleted completely, including its datafiles.
 
-Screenshots included: - Temporary PDB creation - Temporary PDB deletion
-confirmation
-![Temprary PDB](images2_1.png)
+### Screenshots included:
+
+### Temporary PDB creation 
+
+![Temprary PDB](images/temp.png)
+
+## Temporary PDB deletion confirmation
+![Temporary PDB deletion confirmation
+](images/2_2.png)
 
 ## Task 3: Oracle Enterprise Manager (OEM)
 
+![Temprary PDB](images/2_3.png)
 Oracle Enterprise Manager was configured and accessed successfully. The
 dashboard shows the Oracle environment and created PDB.
 
