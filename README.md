@@ -55,6 +55,7 @@ later deleted completely, including its datafiles.
 
 ## Task 3: Oracle Enterprise Manager (OEM)
 
+![Temprary PDB](images/2_3.png)
 Oracle Enterprise Manager was configured and accessed successfully. The
 dashboard shows the Oracle environment and created PDB.
 
